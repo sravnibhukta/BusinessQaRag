@@ -2,6 +2,15 @@
 
 A comprehensive Retrieval-Augmented Generation (RAG) system built with Python and Streamlit for intelligent business document question-answering.
 
+<img width="1906" height="853" alt="image" src="https://github.com/user-attachments/assets/9d758956-1363-46b8-8374-2f316e47360a" />
+
+<img width="1915" height="862" alt="image" src="https://github.com/user-attachments/assets/0f56269d-d00d-4127-afaa-cc6d388d7116" />
+
+<img width="1916" height="863" alt="image" src="https://github.com/user-attachments/assets/2ca23f0d-a5fc-4b45-be12-b459f6e67c98" />
+
+
+
+
 ## Overview
 
 This project implements a complete RAG pipeline that processes business documents, creates embeddings, stores them in a vector database, and provides contextually relevant answers to user queries using OpenAI's language models. The system features a beautiful web interface with demo capabilities.
