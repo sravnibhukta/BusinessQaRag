@@ -1,0 +1,16 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "html2text>=2025.4.15",
+    "markdown>=3.8.2",
+    "nltk>=3.9.1",
+    "numpy>=2.3.1",
+    "openai>=1.95.1",
+    "pinecone>=7.3.0",
+    "pinecone-client>=6.0.0",
+    "streamlit>=1.46.1",
+    "weasyprint>=65.1",
+]
